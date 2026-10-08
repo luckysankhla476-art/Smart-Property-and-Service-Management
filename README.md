@@ -11,7 +11,7 @@ The project follows a Business Analysis-driven approach, where business requirem
 ## Business Analysis:
 The project begins with requirement gathering and process analysis to understand existing operational challenges such as fragmented customer information, manual case handling, inconsistent data entry, limited SLA visibility, and reporting difficulties.
 
-### The solution includes:
+• The solution includes:
 
 - Stakeholder identification
 - Requirement gathering
@@ -23,7 +23,7 @@ The project begins with requirement gathering and process analysis to understand
 
 ## Salesforce Administration:
 
-### The Salesforce Admin foundation includes:
+• The Salesforce Admin foundation includes:
 
 - Custom Salesforce Application
 - Data Model Design
@@ -41,7 +41,7 @@ Automation includes record creation, record updates, ownership assignment, relat
 ## Data Quality & Business Rules:
 The project uses Validation Rules and Formula Fields to enforce business requirements and improve data quality.
 
-### Examples include:
+• Examples include:
 
 - SLA Breach Status
 - Case Age Calculation
@@ -52,7 +52,7 @@ The project uses Validation Rules and Formula Fields to enforce business require
 
 ## Service Management
 
-### The platform supports:
+• The platform supports:
 
 - Case Management
 - Service Requests
