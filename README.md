@@ -1,7 +1,7 @@
 # Smart Property & Service Management (SPSMP)
 
 # Quick Links:
-* 📄 **[View BRD / FRD Documentation](https)**
+* 📄 **[View BA Documentation](https)**
 
 # Project Overview:
 Smart Property & Service Management Platform (SPSMP) is an enterprise-oriented Salesforce project designed to manage customer service operations through a centralized and structured platform.
