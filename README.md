@@ -11,7 +11,7 @@ The project follows a Business Analysis-driven approach, where business requirem
 ## Business Analysis:
 The project begins with requirement gathering and process analysis to understand existing operational challenges such as fragmented customer information, manual case handling, inconsistent data entry, limited SLA visibility, and reporting difficulties.
 
-- The solution includes:
+-- The solution includes:
 
 • Stakeholder identification
 • Requirement gathering
