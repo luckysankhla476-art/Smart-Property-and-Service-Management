@@ -11,27 +11,27 @@ The project follows a Business Analysis-driven approach, where business requirem
 ## Business Analysis:
 The project begins with requirement gathering and process analysis to understand existing operational challenges such as fragmented customer information, manual case handling, inconsistent data entry, limited SLA visibility, and reporting difficulties.
 
--- The solution includes:
+• The solution includes:
 
-• Stakeholder identification
-• Requirement gathering
-• Current-state and future-state process analysis
-• Business Requirements Document (BRD)
-• User Stories
-• Acceptance Criteria
-• Business process improvement
+- Stakeholder identification
+- Requirement gathering
+- Current-state and future-state process analysis
+- Business Requirements Document (BRD)
+- User Stories
+- Acceptance Criteria
+- Business process improvement
 
 ## Salesforce Administration:
 
-- The Salesforce Admin foundation includes:
+• The Salesforce Admin foundation includes:
 
-• Custom Salesforce Application
-• Data Model Design
-•.Standard Objects such as Account, Contact, and Case
-• Custom Objects such as Service Request and Service Feedback
-• Custom Fields and Relationships
-• Profiles, Users, Roles, and Security
-• Permission and access management
+- Custom Salesforce Application
+- Data Model Design
+- Standard Objects such as Account, Contact, and Case
+- Custom Objects such as Service Request and Service Feedback
+- Custom Fields and Relationships
+- Profiles, Users, Roles, and Security
+- Permission and access management
 
 ## Salesforce Flow & Automation:
 Salesforce Flow is a major part of the project and is used to automate business processes, reduce manual work, and maintain data consistency.
@@ -41,26 +41,26 @@ Automation includes record creation, record updates, ownership assignment, relat
 ## Data Quality & Business Rules:
 The project uses Validation Rules and Formula Fields to enforce business requirements and improve data quality.
 
-- Examples include:
+• Examples include:
 
-• SLA Breach Status
-• Case Age Calculation
-• High-Priority Open Case Indicator
-• Customer SLA Tier
-• Service Request Cost Category
-• Resolution Status
+- SLA Breach Status
+- Case Age Calculation
+- High-Priority Open Case Indicator
+- Customer SLA Tier
+- Service Request Cost Category
+- Resolution Status
 
 ## Service Management
 
-- The platform supports:
+• The platform supports:
 
-• Case Management
-• Service Requests
-• SLA Monitoring
-• Web-to-Case
-• Case Tracking
-• Reports
-• Dashboards
+- Case Management
+- Service Requests
+- SLA Monitoring
+- Web-to-Case
+- Case Tracking
+- Reports
+- Dashboards
 
 ## Reports & Dashboards
 Reports and dashboards provide operational visibility into case volume, priorities, SLA performance, and service management activities, helping managers monitor performance and make informed decisions.
