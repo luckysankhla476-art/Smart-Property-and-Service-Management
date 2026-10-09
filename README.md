@@ -1,4 +1,4 @@
-# Smart Property & Service Management (SPSMP)
+# Smart Property & Service Management
 
 ## Quick Links:
 * 📄 **[View BA Documentation](https)**
