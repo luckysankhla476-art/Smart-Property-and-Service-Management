@@ -34,6 +34,7 @@ The project begins with requirement gathering and process analysis to understand
 - Custom Fields and Relationships
 - Profiles, Users, Roles, and Security
 - Permission and access management
+- Agentforce AI
 
 ## Salesforce Flow & Automation:
 Salesforce Flow is a major part of the project and is used to automate business processes, reduce manual work, and maintain data consistency.
@@ -63,6 +64,9 @@ The project uses Validation Rules and Formula Fields to enforce business require
 - Case Tracking
 - Reports
 - Dashboards
+
+## Agentforce AI
+Create an AI based system where we can generate an Email and send it to the Client.
 
 ## Reports & Dashboards
 Reports and dashboards provide operational visibility into case volume, priorities, SLA performance, and service management activities, helping managers monitor performance and make informed decisions.
