@@ -1,9 +1,9 @@
 # Smart Property & Service Management
 
 ## Quick Links:
-* 📄 **[View BA Documentation](https)**
+* 📄 **[View BA Documentation](https://drive.google.com/file/d/1gIlPMe0oKcfwIzZ_StZ8z_TJO_s97WWX/view?usp=sharing)**
 
-* 📷 **[Implementation Screenshots](https)**
+* 🎥 **[Use Agentforce AI to Draft and Send email](https://drive.google.com/file/d/1fRXKzJAYCUFMi9pLmMLEbsh367Dn6W6W/view?usp=sharing)**
 
 ## Project Overview:
 Smart Property & Service Management Platform (SPSMP) is an enterprise-oriented Salesforce project designed to manage customer service operations through a centralized and structured platform.
