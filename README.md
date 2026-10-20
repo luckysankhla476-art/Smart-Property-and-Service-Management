@@ -1,7 +1,7 @@
 # Smart Property & Service Management
 
 ## Quick Links:
-* 📄 **[View BA Documentation](https://drive.google.com/file/d/1gIlPMe0oKcfwIzZ_StZ8z_TJO_s97WWX/view?usp=sharing)**
+* 📄 **[View BA Documentation](https://drive.google.com/file/d/1NzKjj78cxVCvr5eyMQcCaoMtbC1LgNkn/view?usp=drivesdk)**
 
 * 🎥 **[Demo Video of Agentforce AI to Draft and Send email](https://drive.google.com/file/d/1fRXKzJAYCUFMi9pLmMLEbsh367Dn6W6W/view?usp=sharing)**
 
